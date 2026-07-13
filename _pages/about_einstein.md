@@ -1,5 +1,17 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+---
+layout: page
+title: awards
+permalink: /awards/
+nav: true
+nav_order: 3
+---
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Fellowships & Grants
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+*   **Google TRC Research Grant** (2026) — Awarded high-performance Cloud TPU infrastructure access for machine learning experiments.
+*   **Taylor Gaw '13 Endowed Fellowship** (2026) — Funded research residency for the altREU program at Portland State University.
+
+### Academic Programs & Honors
+
+*   **MIT/Harvard IAIFI AI Summer School Fellow** (2026)
+*   **IBM Qiskit Global Summer School Participant** (2026)
