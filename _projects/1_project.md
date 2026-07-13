@@ -1,81 +1,62 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Extreme Value Theory in Prime Gaps
+description: How a curiosity about Cramér's conjecture turned into a 14-month journey of brutal peer reviews, 50 million data points, and my first journal publication.
+img: assets/img/evt_50m_final_results.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project started out of pure, stubborn curiosity. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+About a year and a half ago, I read an article explaining how Extreme Value Theory (EVT) is used to model the "tails" of distributions—basically, predicting rare, extreme events like massive floods or stock market crashes. I immediately wondered: *Could we use this to study prime numbers?* 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Specifically, I wanted to look at **Cramér's conjecture**, which predicts how large the gaps between consecutive prime numbers can get. Other researchers had studied this from a purely theoretical math perspective, but I wanted to see if the statistical data actually backed it up. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+I didn't really know where to start, so I just started asking questions. When I got stuck, I reached out to my professors for guidance, took their feedback, and kept pushing forward.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### The First Attempt & The Brutal Review
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+In my first draft of the paper, I used a dataset of **1 million prime gaps**. At that scale, the data showed what's called *Fréchet* behavior (a type of heavy-tailed distribution limit). I submitted it to the *Journal of Statistics & Probability Letters* (Elsevier).
 
-{% raw %}
+The reviewers did not hold back. They were brutal, but incredibly helpful. One of the reviewers wrote:
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+> "The manuscript presents an interesting statistical approach to studying prime gaps... While the statistical analysis is carefully executed, the manuscript raises significant conceptual and methodological concerns, particularly the justification of EVT assumptions and the interpretation of results, [which] must be addressed before publication."
+
+I had two choices: get discouraged and quit, or go through their feedback line-by-line. I chose the second option. 
+
+---
+
+### Overcoming the Math Challenges & The Data Plots
+
+To address the reviewers' critiques, I had to completely restructure my approach. I scaled up the code and expanded the dataset from 1 million to **50 million prime gaps**. 
+
+When I ran the new data, the statistical behavior shifted beautifully from *Fréchet* to **Gumbel** behavior, aligning perfectly with classical number theory predictions. Furthermore, to prove why probability theory applies to deterministic primes, I shifted from an Augmented Dickey-Fuller (ADF) test to an **Autocorrelation Function (ACF)** analysis on normalized gaps:
+
+$$\frac{g_n}{\log p_n}$$
+
+The ACF perfectly demonstrated that prime gaps behave statistically as if they are independent, identically distributed random variables.
+
+<div class="row justify-content-sm-center mt-4">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/evt_50m_final_results.png" title="Distribution Shift" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">Figure 1: The shift from Fréchet to Gumbel distribution as data scaled to 50M gaps.</div>
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/acf_validation_50m.png" title="ACF Analysis" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">Figure 2: ACF of normalized prime gaps demonstrating statistical independence.</div>
   </div>
 </div>
-```
 
-{% endraw %}
+---
+
+### Rejections, Persistence, and Acceptance
+
+It took 14 months of hard work, learning from initial rejections at other journals that thought the paper was "out of scope," and grinding through the intense revision process. But in the end, the changes made the paper incredibly robust, and it was officially accepted for publication!
+
+I learned so much from this process. It taught me that research isn't about being the smartest person in the room from day one. It's about asking "dumb" questions, trying things step-by-step, and taking brutal feedback as a roadmap to improve rather than a reason to stop.
+
+Funny enough, after the paper went through, the journal actually invited me to act as a **peer reviewer** for another manuscript on extreme value distributions. Since it was my first time and I was swamped with other work, I had to decline—but once I gain a bit more experience and clear my schedule, I can’t wait to give back and do the service one day!
