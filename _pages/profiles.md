@@ -1,28 +1,17 @@
 ---
-layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+layout: page
+title: awards
+permalink: /awards/
 nav: true
-nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+nav_order: 3
 ---
+
+### Fellowships & Grants
+
+*   **Google TRC Research Grant** (2026) — Awarded high-performance Cloud TPU infrastructure access for machine learning experiments.
+*   **Taylor Gaw '13 Endowed Fellowship** (2026) — Funded research residency for the altREU program at Portland State University.
+
+### Academic Programs & Honors
+
+*   **MIT/Harvard IAIFI AI Summer School Fellow** (2026)
+*   **IBM Qiskit Global Summer School Participant** (2026)
