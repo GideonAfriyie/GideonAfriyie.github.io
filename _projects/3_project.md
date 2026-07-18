@@ -4,7 +4,7 @@ title: EVT for Prime Constellations
 description: Extending EVT to compare Twin and Sophie Germain prime distributions against standard prime gaps.
 img: 1*oOfQe30ajiwakSox3tOsoA.png
 importance: 3
-category: Work
+category: work
 ---
 
 Following the acceptance of my paper on EVT applied to general prime gap distributions, I am extending the same methodology to Twin Primes and Sophie Germain Primes - two rare and structurally distinct prime subsets.
