@@ -2,7 +2,7 @@
 layout: page
 title: EVT for Prime Constellations
 description: Extending EVT to compare Twin and Sophie Germain prime distributions against standard prime gaps.
-img: solphie.png
+img: sophie.png
 importance: 3
 category: work
 ---
@@ -15,7 +15,7 @@ This work applies normalized GEV analysis across larger datasets using the same 
 
 <div class="row justify-content-sm-center mt-4">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/solphie.png" title="Solphie & Twin primes" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/sophie.png" title="Sophie & Twin primes" class="img-fluid rounded z-depth-1" %}
     <div class="caption">Extending Extreme Value Theory to compare Twin and Sophie Germain prime distributions against standard prime gaps.</div>
   </div>
 </div>
