@@ -30,4 +30,4 @@ I like taking my time to think through problems and ask questions until I unders
 
 What excites me most is seeing how mathematics can be used to understand and solve real-world problems. I'm always learning, always asking questions, and always looking for opportunities to apply mathematical ideas to research in AI, quantitative, and beyond. I'm not driven by being the smartest person in the room, I'm driven by curiosity and the willingness to stay with a problem until it opens up.
 
-You can find my resume [here](https://drive.google.com/file/d/1CmQs6z1FCWOxUnYs2T_vkBv5ti2K6_rI/view?usp=sharing). Check out my [papers](/publications/).
+You can find my resume [here](https://drive.google.com/file/d/10iukroSTpo5_0O0av-XszFy2IIEJ9olz/view?usp=sharing). Check out my [papers](/publications/).
