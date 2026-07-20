@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Extreme Value Theory in Prime Gaps
-description: How a simple question about Cramér's conjecture became a 14-month journey through peer review, 50 million prime gaps, and my first journal publication.
+description: How a simple question about Cramér's conjecture became a 15-month journey through peer review, 50 million prime gaps, and my first journal publication.
 img: assets/img/evt_50m_final_results.png
 importance: 1
 category: work
@@ -10,7 +10,7 @@ related_publications: true
 
 This project began with a simple question that I couldn't stop thinking about.
 
-About a year and a month ago, I came across an article explaining how **Extreme Value Theory (EVT)** is used to study the tails of probability distributions—the rare, extreme events behind things like catastrophic floods, financial crashes, and other unlikely phenomena. My first thought was:
+About a year and few months ago, I came across an article explaining how **Extreme Value Theory (EVT)** is used to study the tails of probability distributions—the rare, extreme events behind things like catastrophic floods, financial crashes, and other unlikely phenomena. My first thought was:
 
 > *Could these same statistical ideas tell us something about prime numbers?*
 
@@ -75,7 +75,7 @@ to demonstrate that the sequence behaves statistically much like independent, id
 
 ### What I Learned
 
-In summary, this project took about **14 months** from the initial idea to journal acceptance.
+In summary, this project took about **15 months** from the initial idea to journal acceptance.
 
 Along the way, the paper was rejected by journals that considered it outside their scope, challenged by reviewers who pushed me to justify every assumption, and revised it.
 
@@ -93,6 +93,6 @@ This paper began with a question that probably sounded naive:
 
 > *Could Extreme Value Theory tell us something about prime numbers?*
 
-Almost 14 months later, that curiosity became my first peer-reviewed journal publication.
+Almost 15 months later, that curiosity became my first peer-reviewed journal publication.
 
 Perhaps the most unexpected moment came when the editorial board invited me to serve as a peer reviewer for a manuscript on extreme value distributions. Since I was balancing work and several commitments, I had to decline the invitation, but it meant a great deal to me. One day, when I have gained more experience, I hope to contribute to the research community in the same way others helped me throughout this journey.
