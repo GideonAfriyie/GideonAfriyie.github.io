@@ -75,7 +75,7 @@ to demonstrate that the sequence behaves statistically much like independent, id
 
 ### What I Learned
 
-In summary, this project took about **15months** from the initial idea to journal acceptance.
+In summary, this project took about **15 months** from the initial idea to journal acceptance.
 
 Along the way, the paper was rejected by journals that considered it outside their scope, challenged by reviewers who pushed me to justify every assumption, and revised it.
 
