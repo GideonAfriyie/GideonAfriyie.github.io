@@ -13,8 +13,9 @@ profile:
       <a href="mailto:gideonafriyie23@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
       <a href="https://scholar.google.com/citations?user=p4DsaEIAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
       <a href="https://linkedin.com/in/gideon-afriyie-776495407" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://github.com/GideonAfriyie" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i></a>
     </div>
-    <a href="https://github.com/GideonAfriyie" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i></a>
+
 
 selected_papers: true 
 social: false 
