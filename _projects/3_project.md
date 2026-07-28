@@ -22,5 +22,3 @@ This work applies normalized GEV analysis across larger datasets using the same 
 </div>
 
 ---
-
-*This work is currently under **Revise & Resubmit** at the JP Journal of Algebra, Number Theory and Applications.*
