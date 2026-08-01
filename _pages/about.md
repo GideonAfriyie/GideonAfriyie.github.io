@@ -12,7 +12,7 @@ profile:
     <div class="social-icons" style="font-size: 1.6rem; display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
       <a href="mailto:gideonafriyie23@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
       <a href="https://scholar.google.com/citations?user=p4DsaEIAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-      <a href="https://linkedin.com/in/gideon-afriyie-776495407" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://www.linkedin.com/in/gideon-afriyie/" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
     </div>
 
 
