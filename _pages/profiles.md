@@ -6,7 +6,13 @@ nav: true
 nav_order: 3
 ---
 
-### Fellowships
+### Fellowships & Scholar Programs
+
+*   **F-GAP Scholar** | *Math Alliance at the American Mathematical Society* <br>
+    <span style="color: #555; font-size: 0.95rem;">A selective national program recognizing mathematical talent.</span>
+    <span style="float: right; color: gray; font-size: 0.9rem;">2026</span>
+
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 *   **Taylor Gaw ’13 Endowed Fellowship** | *Portland State University* <br>
     <span style="color: #555; font-size: 0.95rem;">Competitive research fellowship supporting the altREU program.</span>
