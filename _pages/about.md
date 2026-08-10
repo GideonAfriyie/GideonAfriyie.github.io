@@ -31,4 +31,4 @@ I like taking my time to think through problems and ask questions until I unders
 
 What excites me most is seeing how mathematics can be used to understand and solve real-world problems. I'm always learning, always asking questions, and always looking for opportunities to apply mathematical ideas to research in AI, quantitative, and beyond. I'm not driven by being the smartest person in the room, I'm driven by curiosity and the willingness to stay with a problem until it opens up.
 
-You can find my resume [here](https://gideonafriyie.github.io/assets/pdf/Afriyie_Resume_2026.pdf). Check out my [papers](/publications/) and [recommendations](https://gideonafriyie.github.io/assets/pdf/BG-Recommendation.pdf)
+You can find my resume [here](https://gideonafriyie.github.io/assets/pdf/Afriyie_Resume_2026.pdf). Check out my [papers](/publications/) and [recommendations](https://gideonafriyie.github.io/assets/pdf/BG-Recommendation.pdf).
