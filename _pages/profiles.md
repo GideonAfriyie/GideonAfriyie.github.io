@@ -14,8 +14,8 @@ nav_order: 3
 
 <div style="clear: both; margin-bottom: 20px;"></div>
 
-*   **Taylor Gaw ’13 Endowed Fellowship** | *Portland State University* <br>
-    <span style="color: #555; font-size: 0.95rem;">Competitive research fellowship supporting the altREU program.</span>
+*   **Taylor Gaw ’13 Endowed Fellowship** | *Gettysburg College* <br>
+    <span style="color: #555; font-size: 0.95rem;">Competitive institutional fellowship.</span>
     <span style="float: right; color: gray; font-size: 0.9rem;">2026</span>
 
 
