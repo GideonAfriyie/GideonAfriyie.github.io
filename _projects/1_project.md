@@ -42,7 +42,7 @@ I chose the second option.
 
 ### Revisiting the Mathematics
 
-Over four months, I worked through every reviewer comment one by one.
+Over 4-5 months, I worked through every reviewer comment one by one.
 
 The biggest change was expanding the dataset from **1 million** to **50 million prime gaps**, which required rewriting much of the pipeline and repeating the statistical analysis from scratch.
 
