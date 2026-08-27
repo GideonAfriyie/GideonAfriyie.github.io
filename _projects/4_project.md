@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Large-Scale ML on Cloud TPUs
-description: Scaling statistical models using distributed JAX/PyTorch pipelines on Cloud TPU infrastructure.
-img: assets/img/google_tpu_preview.png
-importance: 2
+title: 3D Topographic Model
+description: Developing physical 3D terrain models from regional topographic data.
+img: assets/img/topographic_model_preview.png
+importance: 3
 category: work
 ---
 
-As part of the Google TRC Research program, I am utilizing a high-performance Cloud TPU infrastructure grant to scale large-scale machine learning experiments. 
+As a Research Assistant, I am developing realistic 3D topographic models of the local region for use in K-12 STEM education.
 
-My work focuses on developing distributed JAX and PyTorch pipelines to train deep neural networks. By leveraging Google's TPU hardware, I aim to accelerate the training of statistical models designed to model and predict extreme-value behavior across massive, billion-point datasets.
+My work involves researching and developing a workflow for transforming regional topographic and elevation data into physical terrain models. I am exploring 3D modeling and digital fabrication tools, developing prototypes, and refining the models for classroom use..
 
 <div class="row justify-content-sm-center mt-4">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/google_tpu_preview.png" title="Google Cloud TPU" class="img-fluid rounded z-depth-1" %}
-    <div class="caption">Scaling deep learning models on distributed Google Cloud TPU v4/v5e hardware.</div>
+    {% include figure.liquid loading="eager" path="assets/img/topographic_model_preview.png" title="3D Topographic Model" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">Developing physical 3D terrain models from regional topographic data.</div>
   </div>
 </div>
 
 ---
 
-*This is an active research project. Write-ups, models, and benchmarks will be added here as the work progresses.*
+*This is an active on-campus research project @ Gettysburg College.*
