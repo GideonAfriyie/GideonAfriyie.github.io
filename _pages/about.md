@@ -15,6 +15,6 @@ I’m not driven by being the smartest person in the room; I’m driven by curio
 
 ## Relevant Coursework
 
-Advanced Quantitative Methods, Applied Statistics, Linear Algebra, Complex Analysis, Differential Equations, Computer Programming, Financial Econometrics, Financial Derivatives, Intermediate Microeconomic Theory, Analytical Philosophy, Multivariable Calculus, Logic
+Advanced Quantitative Methods, Applied Statistics, Linear Algebra, Complex Analysis, Probability & Statistics, Differential Equations, Computer Programming, Financial Econometrics, Financial Derivatives, Intermediate Microeconomic Theory, Analytical Philosophy, Multivariable Calculus, Logic
 
 **Graduate Coursework**: Stochastic Differential Equations, Stochastic Calculus, Dynamic Programming
