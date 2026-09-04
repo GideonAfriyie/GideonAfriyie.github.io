@@ -8,9 +8,9 @@ author_profile: true
 
 <img src="{{ site.baseurl }}/images/sophie.png" alt="Sophie Germain" width="400">
 
-Following my work on extreme prime gaps, I became curious about whether similar extreme-value behavior appears within special families of primes, particularly twin primes and Sophie Germain primes.
+Following my work on extreme prime gaps, I am curious about whether similar extreme-value behavior appears within special families of primes, particularly twin primes and Sophie Germain primes.
 
-This is an idea I hope to explore further by extending the Extreme Value Theory framework from my previous research to these specialized prime sequences.
+This is an idea I hope to explore further by extending the EVT framework from my previous research to these specialized prime sequences.
 
 ## Extreme Value Theory in Prime Gaps
 
