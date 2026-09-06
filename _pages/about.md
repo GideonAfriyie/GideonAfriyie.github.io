@@ -15,8 +15,9 @@ I’m not driven by being the smartest person in the room; I’m driven by curio
 
 ## News
 
-| **Sep 2026** | Started as a Research Assistant at Gettysburg College, working on tactile 3D topographic modeling and digital fabrication. |
+| | |
 | --- | --- |
+| **Sep 2026** | Started as a Research Assistant at Gettysburg College, working on tactile 3D topographic modeling and digital fabrication. |
 | **Aug 2026** | Participated in the MIT/Harvard IAIFI AI Summer School. |
 | **May 2026** | Accepted into the Google TPU Research Cloud (TRC) program for machine learning research. |
 | **July 2026** | My paper on extreme-value analysis of prime-gap distributions was published in *Statistics & Probability Letters* (Elsevier). |
