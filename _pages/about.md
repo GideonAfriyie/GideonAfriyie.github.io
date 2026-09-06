@@ -12,3 +12,11 @@ Hi there! I’m Gideon, a 4th year mathematics undergrad at Gettysburg College. 
 What excites me most is seeing how mathematics can be used to understand and solve real-world problems. I’m always learning, always asking questions, and always looking for opportunities to apply mathematical ideas to research in AI, quantitative research, and beyond.
 
 I’m not driven by being the smartest person in the room; I’m driven by curiosity and the willingness to stay with a problem until it opens up.
+
+## News
+
+| **Sep 2026** | Started as a Research Assistant at Gettysburg College, working on tactile 3D topographic modeling and digital fabrication. |
+| --- | --- |
+| **Aug 2026** | Participated in the MIT/Harvard IAIFI AI Summer School. |
+| **May 2026** | Accepted into the Google TPU Research Cloud (TRC) program for machine learning research. |
+| **July 2026** | My paper on extreme-value analysis of prime-gap distributions was published in *Statistics & Probability Letters* (Elsevier). |
