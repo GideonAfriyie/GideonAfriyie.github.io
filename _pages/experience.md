@@ -13,6 +13,13 @@ Program was supported by industry sponsors including HRT, Google DeepMind, and P
 
 ---
 
+## Tsinghua University - Fintech Lab
+**Research Collaborator · 2026 - Ongoing**
+
+Working on macroeconomic nowcasting using statistical and machine-learning models across multiple economic data sources
+
+---
+
 ## Under Canvas Inc.
 **Data Analytics Fellow · May 2025 – July 2025**
 
