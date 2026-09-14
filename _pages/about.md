@@ -21,3 +21,11 @@ I’m not driven by being the smartest person in the room; I’m driven by curio
 | **Aug 2026** | Participated in the MIT/Harvard IAIFI AI Summer School. |
 | **May 2026** | Accepted into the Google TPU Research Cloud (TRC) program for machine learning research. |
 | **July 2026** | My paper on extreme-value analysis of prime-gap distributions was published in *Statistics & Probability Letters* (Elsevier). |
+
+## Selected Coursework
+
+**Mathematics & Statistics:** Multivariable Calculus, Differential Equations, Probability & Statistics, Complex Analysis, Linear Algebra, Applied Statistics
+
+**Economics & Quantitative Methods:** Advanced Quantitative Methods, Financial Econometrics, Financial Derivatives, Intermediate Microeconomic Theory
+
+**Graduate-Level Coursework:** Stochastic Analysis, Stochastic Differential Equations, Dynamic Programming
