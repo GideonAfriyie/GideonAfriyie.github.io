@@ -14,6 +14,9 @@ main:
   - title: "Research"
     url: /portfolio/
 
+  - title: "Conferences & Symposia"
+    url: /conferences/
+
   - title: "Experience"
     url: /experience/
 
