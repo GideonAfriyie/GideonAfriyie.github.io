@@ -1,4 +1,3 @@
-
 ---
 title: "Conferences & Symposia"
 permalink: /conferences/
