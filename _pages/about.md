@@ -24,7 +24,7 @@ I’m not driven by being the smartest person in the room; I’m driven by curio
 
 ## Selected Coursework
 
-**Mathematics & Statistics:** Multivariable Calculus, Differential Equations, Probability & Statistics, Complex Analysis, Linear Algebra, Applied Statistics
+**Mathematics & Computing:** Multivariable Calculus, Differential Equations, Probability & Statistics, Complex Analysis, Linear Algebra, Applied Statistics, Scientific Computing 
 
 **Economics & Quantitative Methods:** Advanced Quantitative Methods, Financial Econometrics, Financial Derivatives, Intermediate Microeconomic Theory
 
