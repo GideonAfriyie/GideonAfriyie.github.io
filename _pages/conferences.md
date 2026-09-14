@@ -5,16 +5,15 @@ author_profile: true
 ---
 
 ## Field of Dreams Conference 2026
-**F-GAP Scholar · Fully Funded Attendee · November 19–22, 2026 · Upcoming**
+**AMS-Math Alliance F-GAP Scholar · Fully Funded Attendee · November 19–22, 2026 · Upcoming**
 
 Providence, Rhode Island.
 
 ---
 
 ## The 2026 Summer PIBBSS Fellowship Symposium
-**Participant · September 22–25, 2026**
+**Participant · September 22–25, 2026 · Virtual** 
 
-Virtual
 
 ---
 
