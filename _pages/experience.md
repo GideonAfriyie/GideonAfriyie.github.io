@@ -24,5 +24,3 @@ Analyzed a $1.6M organizational dataset using Python and Excel to investigate bo
 **Volunteer Teaching Assistant · May 2024 – September 2024**
 
 Supported 25+ high school students through virtual instruction, grading, and academic feedback, including maintaining 2–4 a.m. sessions to accommodate the U.S.–Ethiopia time difference.
-
-**Recommendation:** [View letter]({{ site.baseurl }}/files/brighter-generation-recommendation.pdf)
