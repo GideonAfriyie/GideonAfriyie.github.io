@@ -42,9 +42,7 @@ I chose the second option.
 
 Over 4-5 months, I worked through every reviewer comment one by one.
 
-The biggest change was expanding the dataset from **1 million** to **50 million prime gaps**, which required rewriting much of the pipeline and repeating the statistical analysis from scratch.
-
-Interestingly, the conclusions changed.
+The biggest change was expanding the dataset from **1 million** to **50 million prime gaps**. Interestingly, the conclusions changed.
 
 With the larger dataset, the limiting distribution shifted naturally from **Fréchet** to **Gumbel**, bringing the empirical results into much closer agreement with predictions from classical number theory.
 
@@ -89,5 +87,3 @@ This paper began with a question that probably sounded naive:
 > *Could Extreme Value Theory tell us something about prime numbers?*
 
 Months later, that curiosity became my first peer-reviewed journal publication.
-
-Perhaps the most unexpected moment came when the editorial board invited me to serve as a peer reviewer for a manuscript on extreme value distributions. Since I was balancing work and several commitments, I had to decline the invitation, but it meant a great deal to me. One day, when I have gained more experience, I hope to contribute to the research community in the same way others helped me throughout this journey.
