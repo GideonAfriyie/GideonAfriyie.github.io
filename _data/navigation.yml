@@ -14,14 +14,5 @@ main:
   - title: "Research"
     url: /portfolio/
 
-  - title: "Conferences & Symposia"
-    url: /conferences/
-
-  - title: "Experience"
-    url: /experience/
-
-  - title: "Honors & Awards"
-    url: /honors/
-
   - title: "Ideas & Explorations"
     url: /explorations/
