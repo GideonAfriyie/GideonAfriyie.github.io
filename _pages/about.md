@@ -38,7 +38,7 @@ Right now:
 
 - [Gettysburg College](https://www.gettysburg.edu/) — *3D Topographic Modeling Research Assistant*. Aug 2026–present.
 - [Google TPU Research Cloud](https://sites.research.google/trc/about/) — *Research access program*. 2026–present.
-- [MIT/Harvard IAIFI](https://iaifi.org/) — *AI Summer School participant*. Aug 2026.
+- [MIT/Harvard IAIFI](https://iaifi.org/phd-summer-school.html#%23agenda) — *AI Summer School participant*. Aug 2026.
 - [Under Canvas](https://www.undercanvas.com/) — *Data Analytics Fellow*. May–Jul 2025.
 
 </div>
