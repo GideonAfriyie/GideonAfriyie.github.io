@@ -20,6 +20,7 @@ peer-reviewed publication.
 Right now:
 
 - I am working on 3D topographic models as a research assistant.
+- I am exploring the [Andrews–Curtis Conjecture (ACC) Challenge](https://competition.sair.foundation/competitions/acc/overview), co-organized by Caltech and the SAIR Foundation.
 - I am interested in AI and quantitative research.
 - I am studying math @ Gettysburg College.
 
@@ -39,7 +40,6 @@ Right now:
 - [Google TPU Research Cloud](https://sites.research.google/trc/about/) — *Research access program*. 2026–present.
 - [MIT/Harvard IAIFI](https://iaifi.org/) — *AI Summer School participant*. Aug 2026.
 - [Under Canvas](https://www.undercanvas.com/) — *Data Analytics Fellow*. May–Jul 2025.
-- Brighter Generation — *Volunteer Teaching Assistant*. May–Sep 2024.
 
 </div>
 
@@ -61,7 +61,7 @@ Right now:
 **Things I'm interested in**
 
 - AI / AI for science
-- Quantitative finance
+- Quantitative research
 - Exploring mathematical questions that don't have obvious answers
 
 **Also:** AMS–Math Alliance F-GAP Scholar (2026), Taylor Gaw ’13 Endowed Fellowship (2026), Seibert Project Award (2024), and David Wills Scholar (2023).
