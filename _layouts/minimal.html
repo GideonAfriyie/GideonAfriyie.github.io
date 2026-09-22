@@ -32,7 +32,8 @@
       margin-bottom: 14px;
     }
 
-    a {
+    a,
+    a:visited {
       color: #302e2a;
       text-decoration: underline;
       text-underline-offset: 3px;
@@ -41,19 +42,6 @@
 
     a:hover {
       color: #77736c;
-    }
-
-    nav {
-      margin: 28px 0;
-    }
-
-    nav a {
-      text-decoration: none;
-    }
-
-    nav a:hover,
-    nav a.active {
-      text-decoration: underline;
     }
 
     p {
@@ -70,16 +58,53 @@
       margin-bottom: 7px;
     }
 
+    .section-tabs {
+      margin: 28px 0;
+    }
+
+    .section-tabs a,
+    .section-tabs a:visited {
+      color: #302e2a;
+      text-decoration: underline;
+    }
+
+    .section-tabs a.active {
+      font-weight: bold;
+    }
+
     .toggle-section {
       display: none;
     }
 
-    .toggle-section h2:first-child {
+    .toggle-section h2 {
       margin-top: 24px;
     }
 
-    .toggle-section ul li {
+    .toggle-section li {
       margin-bottom: 9px;
+    }
+
+    .social-links {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      margin-top: 12px;
+    }
+
+    .social-links a {
+      display: inline-flex;
+      color: #302e2a;
+      text-decoration: none;
+    }
+
+    .social-links svg {
+      width: 20px;
+      height: 20px;
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
     }
 
     footer {
