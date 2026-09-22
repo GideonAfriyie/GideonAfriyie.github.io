@@ -48,7 +48,7 @@ Right now:
 ## Research
 
 - [Extreme Value Theory Analysis of Prime Gap Distributions](https://doi.org/10.1016/j.spl.2026.110898) — *Statistics & Probability Letters*. 2026.
-- [The 15-month research story](/evt-prime-gaps-story/).
+- [The 15-month research story](/explorations/evt-prime-gaps/).
 
 [Google Scholar](https://scholar.google.com/citations?user=p4DsaEIAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0001-0695-621X)
 
