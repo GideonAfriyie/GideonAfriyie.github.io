@@ -1,0 +1,70 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ site.title }}</title>
+
+  <style>
+    body {
+      max-width: 680px;
+      margin: 80px auto;
+      padding: 0 24px;
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.7;
+      color: #222;
+      background: #fff;
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 8px;
+    }
+
+    h2 {
+      font-size: 21px;
+      margin-top: 48px;
+    }
+
+    a {
+      color: #2856a3;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    nav {
+      margin: 28px 0;
+    }
+
+    footer {
+      margin-top: 64px;
+      font-size: 13px;
+      color: #777;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        margin: 36px auto;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    G © {{ site.time | date: "%Y" }} · Made with care
+  </footer>
+</body>
+</html>
