@@ -50,6 +50,19 @@
       color: #777;
     }
 
+    .toggle-section {
+      display: none;
+    }
+
+    .section-tabs a {
+      cursor: pointer;
+    }
+
+    .section-tabs a.active {
+      font-weight: bold;
+      text-decoration: underline;
+    }
+
     @media (max-width: 600px) {
       body {
         margin: 36px auto;
@@ -66,5 +79,21 @@
   <footer>
     G © {{ site.time | date: "%Y" }} · Made with care
   </footer>
+
+  <script>
+    function showSection(sectionId) {
+      document.querySelectorAll('.toggle-section').forEach(section => {
+        section.style.display =
+          section.id === sectionId ? 'block' : 'none';
+      });
+
+      document.querySelectorAll('.section-tabs a').forEach(link => {
+        link.classList.toggle(
+          'active',
+          link.getAttribute('href') === '#' + sectionId
+        );
+      });
+    }
+  </script>
 </body>
 </html>
