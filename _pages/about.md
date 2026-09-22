@@ -8,16 +8,55 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I’m Gideon, a 4th year mathematics undergrad at Gettysburg College. I like taking my time to think through problems and ask questions until I understand them deeply. That curiosity and persistence eventually led me into research, and to publishing my first peer-reviewed paper in **Statistics and Probability Letters (Elsevier)**.
+# Gideon A. Afriyie
 
-What excites me most is seeing how mathematics can be used to understand and solve real-world problems. I’m always learning, always asking questions, and always looking for opportunities to apply mathematical ideas to research in AI, quantitative research, and beyond.
+Hi there! I'm Gideon, a mathematics undergraduate at
+[Gettysburg College](https://www.gettysburg.edu/), graduating in 2027.
 
-I’m not driven by being the smartest person in the room; I’m driven by curiosity and the willingness to stay with a problem until it opens up.
+I like asking questions and staying with a problem until I understand
+it. That curiosity led me into independent research and my first
+peer-reviewed publication.
 
-### Selected Coursework
+Right now:
 
-| Area | Courses |
-| --- | --- |
-| **Mathematics & Computing** | Multivariable Calculus, Differential Equations, Probability & Statistics, Complex Analysis, Linear Algebra, Applied Statistics, Scientific Computing |
-| **Economics & Quantitative Methods** | Advanced Quantitative Methods, Financial Econometrics, Financial Derivatives, Intermediate Microeconomic Theory |
-| **Graduate-Level Coursework** | Stochastic Analysis, SDEs, Dynamic Programming |
+- I am working on 3D topographic models as a research assistant.
+- I am interested in AI, and quantitative research.
+- I am studying math @ Gettysburg College.
+
+[Experience](#experience) · [Research](#research) · [More stuff](#more-stuff)
+
+## Experience
+
+- [Gettysburg College](https://www.gettysburg.edu/) — *3D Topographic Modeling Research Assistant*. Developing tactile terrain models from regional elevation data. Aug 2026–present.
+
+- [Google TPU Research Cloud](https://sites.research.google/trc/about/) — *Research access program*. Selected for Cloud TPU access for machine-learning research. 2026–present.
+
+- [MIT/Harvard IAIFI](https://iaifi.org/) — *AI Summer School participant*. Symbolic regression, diffusion models, simulation-based inference, and a physics-informed AI hackathon. Aug 2026.
+
+- [Under Canvas](https://www.undercanvas.com/) — *Data Analytics Fellow*. Analyzed a $1.6M organizational dataset using Python and Excel. May–Jul 2025.
+
+- Brighter Generation — *Volunteer Teaching Assistant*. Supported 25+ high school students through virtual instruction and academic feedback. May–Sep 2024.
+
+## Research
+
+- **[Extreme Value Theory Analysis of Prime Gap Distributions](https://doi.org/10.1016/j.spl.2026.110898)** — *Statistics & Probability Letters*, 2026. Independent research using extreme value theory to study prime-gap distributions.
+
+  [Read the publication](https://doi.org/10.1016/j.spl.2026.110898) · [The 15-month research story](/evt-prime-gaps-story/)
+
+[Google Scholar](https://scholar.google.com/citations?user=p4DsaEIAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0001-0695-621X)
+
+## More stuff
+
+**Things I'm interested in**
+
+- AI/AI for science
+- Quantitative finance
+- Exploring mathematical questions that don't have obvious answers
+
+**Also:** AMS–Math Alliance F-GAP Scholar (2026), Taylor Gaw ’13 Endowed Fellowship (2026), Seibert Project Award (2024), and David Wills Scholar (2023).
+
+Feel free to reach out!
+
+[Email](mailto:gideonafriyie23@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gideon-afriyie/) · [GitHub](https://github.com/GideonAfriyie)
+
+[Back to top](#gideon-a-afriyie)
