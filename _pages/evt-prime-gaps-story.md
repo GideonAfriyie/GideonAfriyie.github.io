@@ -1,7 +1,8 @@
 ---
+layout: minimal
 title: "Extreme Value Theory in Prime Gaps"
 permalink: /explorations/evt-prime-gaps/
-author_profile: true
+author_profile: false
 ---
 
 *How a simple question about Cramér's conjecture became a 15-month journey through peer review, 50 million prime gaps, and my first journal publication.*
