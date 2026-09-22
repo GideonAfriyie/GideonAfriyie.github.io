@@ -70,4 +70,4 @@ Right now:
 
 Feel free to reach out!
 
-[Email](mailto:gideonafriyie23@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gideon-afriyie/) · [GitHub](https://github.com/GideonAfriyie)
+[Email](mailto:gideonafriyie23@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gideon-afriyie/)
