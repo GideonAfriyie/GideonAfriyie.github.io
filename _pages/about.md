@@ -21,7 +21,6 @@ Right now:
 
 - I am working on 3D topographic models as a research assistant.
 - I am exploring the [Andrews–Curtis Conjecture (ACC) Challenge](https://competition.sair.foundation/competitions/acc/overview), co-organized by Caltech and the SAIR Foundation.
-- I am interested in AI and quantitative research.
 - I am studying math @ Gettysburg College.
 
 <nav class="section-tabs">
