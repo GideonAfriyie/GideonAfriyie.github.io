@@ -23,8 +23,15 @@ Right now:
 - I am interested in AI, and quantitative research.
 - I am studying math @ Gettysburg College.
 
-[Experience](#experience) · [Research](#research) · [More stuff](#more-stuff)
+<nav class="section-tabs">
+  <a href="#experience" onclick="showSection('experience'); return false;">Experience</a>
+  ·
+  <a href="#research" onclick="showSection('research'); return false;">Research</a>
+  ·
+  <a href="#more" onclick="showSection('more'); return false;">More stuff</a>
+</nav>
 
+<div id="experience" class="toggle-section" markdown="1">
 ## Experience
 
 - [Gettysburg College](https://www.gettysburg.edu/) — *3D Topographic Modeling Research Assistant*. Developing tactile terrain models from regional elevation data. Aug 2026–present.
@@ -37,6 +44,9 @@ Right now:
 
 - Brighter Generation — *Volunteer Teaching Assistant*. Supported 25+ high school students through virtual instruction and academic feedback. May–Sep 2024.
 
+</div>
+
+<div id="research" class="toggle-section" markdown="1">
 ## Research
 
 - **[Extreme Value Theory Analysis of Prime Gap Distributions](https://doi.org/10.1016/j.spl.2026.110898)** — *Statistics & Probability Letters*, 2026. Independent research using extreme value theory to study prime-gap distributions.
@@ -44,6 +54,10 @@ Right now:
   [Read the publication](https://doi.org/10.1016/j.spl.2026.110898) · [The 15-month research story](/evt-prime-gaps-story/)
 
 [Google Scholar](https://scholar.google.com/citations?user=p4DsaEIAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0001-0695-621X)
+
+</div>
+
+<div id="more" class="toggle-section" markdown="1">
 
 ## More stuff
 
@@ -55,6 +69,7 @@ Right now:
 
 **Also:** AMS–Math Alliance F-GAP Scholar (2026), Taylor Gaw ’13 Endowed Fellowship (2026), Seibert Project Award (2024), and David Wills Scholar (2023).
 
+</div>
 Feel free to reach out!
 
 [Email](mailto:gideonafriyie23@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gideon-afriyie/) · [GitHub](https://github.com/GideonAfriyie)
