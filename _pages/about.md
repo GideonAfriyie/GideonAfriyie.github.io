@@ -21,7 +21,7 @@ Right now:
 
 - I am working on 3D topographic models as a research assistant.
 - I am exploring the [Andrews–Curtis Conjecture (ACC) Challenge](https://competition.sair.foundation/competitions/acc/overview), co-organized by Caltech and the SAIR Foundation.
-- I am studying math @ Gettysburg College.
+- I am registered for the [SIG Predictions Cup](https://sig.com/predictions/), a simulated trading competition - Starting Oct. 1 to Nov. 4
 
 <nav class="section-tabs">
   <a href="#experience" onclick="showSection('experience'); return false;">Experience</a>
