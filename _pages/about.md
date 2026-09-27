@@ -28,6 +28,8 @@ Right now, I am:
   ·
   <a href="#research" onclick="showSection('research'); return false;">Research</a>
   ·
+  <a href="#conferences" onclick="showSection('conferences'); return false;">Conferences</a>
+  ·
   <a href="#more" onclick="showSection('more'); return false;">More stuff</a>
 </nav>
 
@@ -53,18 +55,16 @@ Right now, I am:
 
 </div>
 
-<div id="more" class="toggle-section" markdown="1">
-
 <div id="conferences" class="toggle-section" markdown="1">
 
-## Conferences & Symposia
+## Conferences
 
 - [Math Alliance Field of Dreams Conference](https://www.ams.org/learning-careers/students/math-alliance/ma-field-of-dreams) — *F-GAP Scholar, fully funded*. Nov 2026. *(Upcoming)*
 - [Joint Mathematics Meetings (JMM)](https://jointmathematicsmeetings.org/) — *Math Alliance Scholar*. Chicago, IL · Jan 12–15, 2027. *(Upcoming)*
-  
+
 </div>
 
-<div id="research" class="toggle-section" markdown="1">
+<div id="more" class="toggle-section" markdown="1">
 
 ## More stuff
 
