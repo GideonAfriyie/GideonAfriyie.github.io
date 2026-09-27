@@ -55,6 +55,17 @@ Right now, I am:
 
 <div id="more" class="toggle-section" markdown="1">
 
+<div id="conferences" class="toggle-section" markdown="1">
+
+## Conferences & Symposia
+
+- [Math Alliance Field of Dreams Conference](https://www.ams.org/learning-careers/students/math-alliance/ma-field-of-dreams) — *F-GAP Scholar, fully funded*. Nov 2026. *(Upcoming)*
+- [Joint Mathematics Meetings (JMM)](https://jointmathematicsmeetings.org/) — *Math Alliance Scholar*. Chicago, IL · Jan 12–15, 2027. *(Upcoming)*
+  
+</div>
+
+<div id="research" class="toggle-section" markdown="1">
+
 ## More stuff
 
 **Things I'm interested in**
