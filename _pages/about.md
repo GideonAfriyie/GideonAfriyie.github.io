@@ -20,7 +20,6 @@ peer-reviewed publication.
 Right now, I am:
 
 - working on 3D topographic models as a research assistant on-campus.
-- exploring the [Andrews–Curtis Conjecture (ACC) Challenge](https://competition.sair.foundation/competitions/acc/overview), co-organized by Caltech and SAIR
 - registered for the [SIG Predictions Cup](https://sig.com/predictions/), a simulated trading competition - Oct. 1 to Nov. 4
 
 <nav class="section-tabs">
