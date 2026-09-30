@@ -20,7 +20,7 @@ peer-reviewed publication.
 Right now, I am:
 
 - working on 3D topographic models as a research assistant on-campus.
-- Participating in the [SIG Predictions Cup](https://sig.com/predictions/), a simulated trading competition - Oct. 1 to Nov. 4
+- participating in the [SIG Predictions Cup](https://sig.com/predictions/), a simulated trading competition - Oct. 1 to Nov. 4
 
 <nav class="section-tabs">
   <a href="#experience" onclick="showSection('experience'); return false;">Experience</a>
@@ -67,7 +67,7 @@ Right now, I am:
 
 <div id="more" class="toggle-section" markdown="1">
 
-## Other stuff
+## More stuff
 
 **Things I'm interested in**
 
