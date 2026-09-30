@@ -20,7 +20,7 @@ peer-reviewed publication.
 Right now, I am:
 
 - working on 3D topographic models as a research assistant on-campus.
-- registered for the [SIG Predictions Cup](https://sig.com/predictions/), a simulated trading competition - Oct. 1 to Nov. 4
+- Participating in the [SIG Predictions Cup](https://sig.com/predictions/), a simulated trading competition - Oct. 1 to Nov. 4
 
 <nav class="section-tabs">
   <a href="#experience" onclick="showSection('experience'); return false;">Experience</a>
@@ -30,6 +30,8 @@ Right now, I am:
   <a href="#conferences" onclick="showSection('conferences'); return false;">Conferences</a>
   ·
   <a href="#more" onclick="showSection('more'); return false;">More stuff</a>
+  ·
+  <a href="/files/Afriyie_Resume.pdf" target="_blank">Resume</a>
 </nav>
 
 <div id="experience" class="toggle-section" markdown="1">
@@ -65,7 +67,7 @@ Right now, I am:
 
 <div id="more" class="toggle-section" markdown="1">
 
-## More stuff
+## Other stuff
 
 **Things I'm interested in**
 
