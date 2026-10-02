@@ -30,8 +30,7 @@ Right now, I am:
   <a href="#conferences" onclick="showSection('conferences'); return false;">Conferences</a>
   ·
   <a href="#more" onclick="showSection('more'); return false;">More stuff</a>
-  ·
-  <a href="/files/Afriyie_Resume.pdf" target="_blank">Resume</a>
+  
 </nav>
 
 <div id="experience" class="toggle-section" markdown="1">
@@ -42,6 +41,7 @@ Right now, I am:
 - [Google TPU Research Cloud](https://sites.research.google/trc/about/) — *ML Research access program*. 2026.
 - [MIT/Harvard IAIFI](https://iaifi.org/phd-summer-school.html#%23agenda) — *AI Summer School*. Aug 2026.
 - [Under Canvas](https://www.undercanvas.com/) — *Data Analytics Fellow*. May–Jul 2025.
+- Brighter Generation — *Volunteer Teaching Assistant*. May–Sep 2024.
 
 </div>
 
