@@ -30,7 +30,8 @@ Right now, I am:
   <a href="#conferences" onclick="showSection('conferences'); return false;">Conferences</a>
   ·
   <a href="#more" onclick="showSection('more'); return false;">More stuff</a>
-  
+  ·
+  <a href="/assets/Afriyie_Resume.pdf" target="_blank">Résumé</a>
 </nav>
 
 <div id="experience" class="toggle-section" markdown="1">
