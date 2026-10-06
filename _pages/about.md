@@ -31,7 +31,7 @@ Right now, I am:
   ·
   <a href="#more" onclick="showSection('more'); return false;">More stuff</a>
   ·
-  <a href="/files/Afriyie_Resume.pdf" target="_blank">Resume</a>
+  <a href="files/Afriyie_Resume.pdf" target="_blank">Resume</a>
 </nav>
 
 <div id="experience" class="toggle-section" markdown="1">
