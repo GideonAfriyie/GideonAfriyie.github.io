@@ -57,15 +57,6 @@ Right now, I am:
 
 </div>
 
-<div id="conferences" class="toggle-section" markdown="1">
-
-## Conferences
-
-- [Field of Dreams Conference](https://www.ams.org/learning-careers/students/math-alliance/ma-field-of-dreams) — *F-GAP Scholar, fully funded*. Nov 19-22 2026. *(Upcoming)*
-- [Joint Mathematics Meetings (JMM)](https://jointmathematicsmeetings.org/) — *AMS Scholar*. Chicago, IL · Jan 12–15, 2027. *(Upcoming)*
-
-</div>
-
 <div id="more" class="toggle-section" markdown="1">
 
 ## More stuff
@@ -77,6 +68,11 @@ Right now, I am:
 - Exploring mathematical questions that don't have obvious answers
 
 **Also:** AMS–Math Alliance F-GAP Scholar (2026), Taylor Gaw ’13 Endowed Fellowship (2026), Seibert Project Award (2024), and David Wills Scholar (2023).
+
+**Conferences**
+
+- [Field of Dreams Conference](https://www.ams.org/learning-careers/students/math-alliance/ma-field-of-dreams) — *F-GAP Scholar, fully funded*. Nov 19–22, 2026. *(Upcoming)*
+- [Joint Mathematics Meetings (JMM)](https://jointmathematicsmeetings.org/) — *AMS Scholar*. Chicago, IL · Jan 12–15, 2027. *(Upcoming)*
 
 </div>
 
