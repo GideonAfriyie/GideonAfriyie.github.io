@@ -27,8 +27,6 @@ Right now, I am:
   ·
   <a href="#research" onclick="showSection('research'); return false;">Research</a>
   ·
-  <a href="#conferences" onclick="showSection('conferences'); return false;">Conferences</a>
-  ·
   <a href="#more" onclick="showSection('more'); return false;">More stuff</a>
   ·
   <a href="files/Afriyie_Resume.pdf" target="_blank">Resume</a>
