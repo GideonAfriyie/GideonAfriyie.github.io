@@ -17,7 +17,7 @@ I like asking questions and staying with a problem until I understand
 it. That curiosity led me into independent research and my first
 peer-reviewed publication.
 
-Outside of academics, I enjoy going to the gym, playing video games on my PS5 (especially EA Sports FC, adventure games, others), and playing pool.
+Outside of academics, I enjoy going to the gym, listening to music, playing video games on my PS5 (especially EA Sports FC and adventure games) and watching movies. I also enjoy playing pool.
 
 Right now, I am:
 
@@ -36,14 +36,15 @@ Right now, I am:
 
 <div id="experience" class="toggle-section" markdown="1">
 
-## Experience
+## Experience & Programs
 
-- [Gettysburg College](https://www.gettysburg.edu/) — *3D Topographic Modeling Research Assistant*. Aug 2026–present.
-- [Portland State University (altREU)](https://teuscher-lab.com/altreu/) — *Undergraduate Research*. Jun–Aug 2026.
+- [Gettysburg College](https://www.gettysburg.edu/) — *3D Topographic Modeling Research Assistant*. Aug 2026 – present.
+- [Portland State University (altREU)](https://teuscher-lab.com/altreu/) — *Undergraduate Research*. Jun – Aug 2026.
+- Stanford University — *Probability for AI (PAI) Program*. Oct – Nov 2026.
 - [Google TPU Research Cloud](https://sites.research.google/trc/about/) — *ML Research access program*. 2026.
 - [MIT/Harvard IAIFI](https://iaifi.org/phd-summer-school.html#%23agenda) — *AI Summer School*. Aug 2026.
-- [Under Canvas](https://www.undercanvas.com/) — *Data Analytics Fellow*. May–Jul 2025.
-- Brighter Generation — *Volunteer Teaching Assistant*. May–Sep 2024.
+- [Under Canvas](https://www.undercanvas.com/) — *Data Analytics Fellow*. May – Jul 2025.
+- Brighter Generation — *Volunteer Teaching Assistant*. May – Sep 2024.
 
 </div>
 
