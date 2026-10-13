@@ -68,10 +68,6 @@ Right now, I am:
 
 AMS–Math Alliance F-GAP Scholar (2026), Taylor Gaw ’13 Endowed Fellowship (2026), Seibert Project Award (2024), and David Wills Scholar (2023).
 
-**Outside of Research**
-
-I enjoy going to the gym, playing video games on my PS5 (especially EA Sports FC and adventure games), and playing pool.
-
 </div>
 
 <p>Feel free to reach out!</p>
