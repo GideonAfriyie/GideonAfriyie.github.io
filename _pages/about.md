@@ -37,6 +37,7 @@ Right now, I am:
 ## Experience
 
 - [Gettysburg College](https://www.gettysburg.edu/) — *3D Topographic Modeling Research Assistant*. Aug 2026–present.
+- [Portland State University (altREU)](https://teuscher-lab.com/altreu/) — *Undergraduate Research*. Jun–Aug 2026.
 - [Google TPU Research Cloud](https://sites.research.google/trc/about/) — *ML Research access program*. 2026.
 - [MIT/Harvard IAIFI](https://iaifi.org/phd-summer-school.html#%23agenda) — *AI Summer School*. Aug 2026.
 - [Under Canvas](https://www.undercanvas.com/) — *Data Analytics Fellow*. May–Jul 2025.
