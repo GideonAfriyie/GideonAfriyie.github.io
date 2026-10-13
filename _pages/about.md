@@ -17,6 +17,8 @@ I like asking questions and staying with a problem until I understand
 it. That curiosity led me into independent research and my first
 peer-reviewed publication.
 
+Outside of academics, I enjoy going to the gym, playing video games on my PS5 (especially EA Sports FC, adventure games, others), and playing pool.
+
 Right now, I am:
 
 - working on 3D topographic models as a research assistant on-campus.
@@ -52,6 +54,8 @@ Right now, I am:
 - [Extreme Value Theory Analysis of Prime Gap Distributions](https://doi.org/10.1016/j.spl.2026.110898) — *Statistics & Probability Letters*. 2026.
 - [The 15-month research story](/explorations/evt-prime-gaps/).
 
+- [Predicting Urban Air Quality Trends Using Machine Learning and Public Satellite/Sensor Data](https://pdxscholar.library.pdx.edu/altreu_projects/19) — *Summer Proceedings 2026*, Chapter 16. Co-author.
+  
 [Google Scholar](https://scholar.google.com/citations?user=p4DsaEIAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0001-0695-621X)
 
 </div>
@@ -60,18 +64,13 @@ Right now, I am:
 
 ## More stuff
 
-**Things I'm interested in**
+**Honors & Awards**
 
-- AI / AI for science
-- Quantitative research
-- Exploring mathematical questions that don't have obvious answers
+AMS–Math Alliance F-GAP Scholar (2026), Taylor Gaw ’13 Endowed Fellowship (2026), Seibert Project Award (2024), and David Wills Scholar (2023).
 
-**Also:** AMS–Math Alliance F-GAP Scholar (2026), Taylor Gaw ’13 Endowed Fellowship (2026), Seibert Project Award (2024), and David Wills Scholar (2023).
+**Outside of Research**
 
-**Conferences**
-
-- [Field of Dreams Conference](https://www.ams.org/learning-careers/students/math-alliance/ma-field-of-dreams) — *F-GAP Scholar, fully funded*. Nov 19–22, 2026. *(Upcoming)*
-- [Joint Mathematics Meetings (JMM)](https://jointmathematicsmeetings.org/) — *AMS Scholar*. Chicago, IL · Jan 12–15, 2027. *(Upcoming)*
+I enjoy going to the gym, playing video games on my PS5 (especially EA Sports FC and adventure games), and playing pool.
 
 </div>
 
