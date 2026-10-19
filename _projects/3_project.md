@@ -1,9 +1,8 @@
-
 ---
 layout: page
 title: Machine Learning for Urban Air Quality
 description: Portland State University altREU · Summer 2026
-img: assets/img/altreu-design-program-use.webp
+img: assets/img/Unknown-2.png
 importance: 3
 category: work
 ---
