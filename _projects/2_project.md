@@ -2,7 +2,7 @@
 layout: page
 title: Extreme Value Theory and Prime Gaps
 description: A 15-month research journey from Cramér's conjecture to journal publication
-img: assets/img/prime-pattern.jpeg
+img: assets/img/images-10.jpeg
 importance: 2
 category: work
 related_publications: true
