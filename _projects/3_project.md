@@ -1,81 +1,52 @@
+
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
+title: Machine Learning for Urban Air Quality
+description: Portland State University altREU · Summer 2026
+img: assets/img/altreu-design-program-use.webp
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Portland State University · altREU**  
+*June – August 2026*
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Research Overview
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+As part of the Portland State University altREU program, I contributed to a collaborative research project titled **"Predicting Urban Air Quality Trends Using Machine Learning and Public Satellite/Sensor Data."**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The project investigated whether machine learning could predict urban air quality and distinguish long-term pollution trends from changes caused by weather.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Using publicly available data from the **U.S. Environmental Protection Agency (EPA)** and **NASA MERRA-2**, our team analyzed air quality and meteorological conditions in Los Angeles from 2016 to 2025.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Methods and Results
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+We compared 6 ML models, including Support Vector Regression, Random Forest, Gradient Boosting, and Neural Networks.
 
-{% raw %}
+The analysis also explored stacked ensembles and additional atmospheric physics features.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+Our physics-enriched ensemble achieved:
 
-{% endraw %}
+- **R² = 0.825** on the held-out test data.
+- **Mean Absolute Error = 11.93 AQI points.**
+- **Test RMSE = 16.91 AQI points.**
+
+One of the most interesting findings involved weather normalization.
+
+Although the raw AQI data suggested that Los Angeles air quality was improving, accounting for meteorological variability revealed an approximately flat underlying trend.
+
+This highlighted the importance of distinguishing weather-related fluctuations from longer-term changes when interpreting environmental data.
+
+## Research Output
+
+Our work appears as **Chapter 16** in the *altREU Summer Proceedings 2026*.
+
+**Authors:** Raiyat Haque, Bealu Kebede, Gideon Afriyie, and Habib Yusuf.
+
+[Read the Summer Proceedings](https://pdxscholar.library.pdx.edu/altreu_projects/19)
+
+[View the research repository](https://github.com/altREU-hub/altREU---Team-Bullets)
+
+## Program
+
+[Learn more about the Portland State University altREU program](https://teuscher-lab.com/altreu/)
