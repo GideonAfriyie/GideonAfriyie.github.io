@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Extreme Value Theory and Prime Gaps
