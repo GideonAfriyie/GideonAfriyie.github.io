@@ -36,7 +36,7 @@ cv:
           - Verified geographic coverage using QGIS; evaluating scale, vertical exaggeration, and print quality.
 
       - company: Portland State University
-        position: altREU Undergraduate Researcher
+        position: altREU Research
         start_date: 2026-06
         end_date: 2026-08
         highlights:
@@ -70,13 +70,6 @@ cv:
         releaseDate: 2026
         url: https://pdxscholar.library.pdx.edu/altreu_projects/19
         summary: Machine learning analysis of urban air quality using EPA and NASA data, including ensemble modeling and weather normalization.
-
-    Projects:
-      - name: Quantitative Risk & Portfolio Optimization
-        summary: Applied mean-variance optimization and quantitative risk analysis to a portfolio of eight financial assets.
-        highlights:
-          - Analyzed over six years of asset prices, estimating returns, volatility, and correlations.
-          - Constructed efficient frontiers and applied KKT conditions to restrict short selling.
 
     Skills:
       - name: Technical Skills
