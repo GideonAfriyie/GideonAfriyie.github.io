@@ -5,7 +5,6 @@ cv:
   email: gideonafriyie23@gmail.com
   location: Gettysburg, PA, USA
   image: ""
-  summary: Mathematics undergraduate at Gettysburg College interested in applied mathematics, probability, statistics, quantitative research, and artificial intelligence.
 
   social_networks:
     - network: LinkedIn
@@ -79,7 +78,7 @@ cv:
     Interests:
       - name: Research Interests
         icon: fa-solid fa-chart-line
-        keywords: "Applied Mathematics, Probability, Statistics, Quantitative Research, Artificial Intelligence"
+        keywords: "Applied Mathematics, Quantitative Research, AI"
 
     Certificates:
       - name: AI Summer School
