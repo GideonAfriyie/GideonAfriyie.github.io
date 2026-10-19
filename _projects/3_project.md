@@ -44,8 +44,6 @@ Our work appears as **Chapter 16** in the *altREU Summer Proceedings 2026*.
 
 [Read the Summer Proceedings](https://pdxscholar.library.pdx.edu/altreu_projects/19)
 
-[View the research repository](https://github.com/altREU-hub/altREU---Team-Bullets)
-
 ## Program
 
 [Learn more about the Portland State University altREU program](https://teuscher-lab.com/altreu/)
