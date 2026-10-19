@@ -1,81 +1,112 @@
+
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Extreme Value Theory and Prime Gaps
+description: A 15-month research journey from Cramér's conjecture to journal publication
+img: assets/img/prime-pattern.jpeg
 importance: 2
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+*How a simple question about Cramér's conjecture became a 15-month journey through peer review, 50 million prime gaps, and my first journal publication.*
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## How It Started
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project began with a simple question that I couldn't stop thinking about.
+
+About a year and a few months ago, I came across an article explaining how **Extreme Value Theory (EVT)** is used to study the tails of probability distributions — the rare, extreme events behind things like catastrophic floods, financial crashes, and other unlikely phenomena.
+
+My first thought was:
+
+> Could these same statistical ideas tell us something about prime numbers?
+
+More specifically, I became fascinated by **Cramér's conjecture** after learning about it in my Abstract Math course. It is one of the most well-known conjectures about how large the gaps between consecutive prime numbers can become.
+
+While the conjecture has traditionally been studied from a theoretical number theory perspective, I wondered whether the data itself could provide statistical evidence supporting its predictions.
+
+I wasn't entirely sure how to approach the problem at first, so I started reading papers, experimenting with ideas, asking questions, and reaching out to professors whenever I got stuck.
+
+Every answer seemed to raise another question, and before I knew it, a small curiosity had grown into a full research project.
+
+## The First Submission
+
+My first version of the paper analyzed **1 million consecutive prime gaps** using Generalized Extreme Value (GEV) distributions.
+
+At that scale, the data appeared to follow a **Fréchet distribution**, suggesting heavy-tailed behavior.
+
+Encouraged by the results, I submitted the manuscript to *Statistics & Probability Letters*.
+
+The reviews came back with a clear message: the statistical analysis was interesting, but the mathematical justification needed to be much stronger.
+
+The reviewers raised concerns about the justification of EVT assumptions and the interpretation of the results.
+
+At that point, I had two options.
+
+I could convince myself that the reviewers simply didn't understand the work, or I could treat their comments as genuine weaknesses and use the feedback to improve it.
+
+I chose the second option.
+
+## Revisiting the Mathematics
+
+Over the next **4–5 months**, I worked through the reviewer comments one by one.
+
+The biggest change was expanding the dataset from **1 million to 50 million prime gaps**.
+
+Interestingly, the conclusions changed.
+
+With the larger dataset, the fitted extreme-value distribution shifted from **Fréchet toward Gumbel**, bringing the empirical results into closer agreement with predictions from classical number theory.
+
+I also revisited one of the central criticisms of the paper.
+
+Rather than relying primarily on an Augmented Dickey-Fuller (ADF) test, I used an **Autocorrelation Function (ACF)** analysis to examine serial dependence in the prime-gap sequence.
+
+### Extreme Value Analysis
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/prime-gap-evt (2).png" title="Extreme value analysis of 50 million prime gaps" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+  Figure 1. Distribution of normalized prime gaps, block maxima, and a Generalized Extreme Value fit using 50 million primes.
 </div>
+
+### Autocorrelation Analysis
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/acf_validation_50m (2).png" title="Autocorrelation analysis of prime gaps" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
+<div class="caption">
+  Figure 2. Autocorrelation analysis of prime gaps, examining serial dependence across different lags.
+</div>
 
-{% endraw %}
+## What I Learned
+
+In total, this project took approximately **15 months**, from the initial idea to journal acceptance.
+
+Along the way, the paper was rejected by journals that considered it outside their scope, challenged by reviewers who pushed me to justify my assumptions, and revised until the work became stronger.
+
+Looking back, I'm grateful for those setbacks because they forced me to think more carefully about the mathematics.
+
+More importantly, this project changed how I think about research.
+
+I used to believe research was about having brilliant ideas from the beginning.
+
+Now I think it's almost the opposite.
+
+Research is about asking questions you're genuinely curious about, being willing to admit when your first approach is incomplete, and treating criticism as an opportunity to learn rather than a reason to stop.
+
+This paper began with a question that probably sounded naive:
+
+> Could Extreme Value Theory tell us something about prime numbers?
+
+Months later, that curiosity became my first peer-reviewed journal publication.
+
+## Publication
+
+The resulting research was published in *Statistics & Probability Letters*.
+
+See my [Publications]({{ '/publications/' | relative_url }}) page for the paper and its bibliographic details.
