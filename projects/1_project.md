@@ -2,7 +2,7 @@
 ---
 layout: page
 title: 3D Topographic Modeling
-description: Research Assistant · Gettysburg College
+description: Research Assistant
 img: assets/img/terrain-printed.jpeg
 importance: 1
 category: work
