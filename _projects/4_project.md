@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Stanford Probability for AI
