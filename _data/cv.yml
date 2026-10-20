@@ -85,31 +85,12 @@ cv:
         issuer: MIT/Harvard IAIFI
         icon: fa-solid fa-graduation-cap
 
-    Awards:
-      - title: AMS–Math Alliance F-GAP Scholar
-        awarder: AMS–Math Alliance
-
-      - title: Taylor Gaw '13 Endowed Fellowship
-        awarder: Gettysburg College
-
-      - title: Seibert Project Award
-        awarder: Gettysburg College
-
     Research & Programs:
-      - company: Stanford University
-        position: Probability for AI Program
-        start_date: 2026-10
-        end_date: 2026-11
-        summary: Probability-focused AI program with an interactive portfolio.
-        highlights:
-          - "Portfolio: https://pai.stanford.edu/pai1/portfolio/mGdZcVlFIzWWUrp9MjOMTkFuWEP2"
+      - title: Probability for AI Program
+        awarder: Stanford University
 
-      - company: Google
-        position: TPU Research Cloud
-        start_date: 2026-05
-        end_date: 2026
+      - title: TPU Research Cloud
+        awarder: Google
 
-      - company: MIT/Harvard IAIFI
-        position: AI Summer School
-        start_date: 2026-08
-        end_date: 2026-08
+      - title: AI Summer School
+        awarder: MIT/Harvard IAIFI
