@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stanford Probability for AI
+title: Stanford π
 description: Probability for AI Program · October–November 2026
 img: assets/img/IMG_6059.jpeg
 importance: 4
@@ -8,7 +8,7 @@ category: work
 ---
 
 **Stanford University · Probability for AI (PAI) π**  
-*October – November 2026*
+*Oct. – Nov. 2026*
 
 The Probability for AI program explores how mathematical probability connects to modern AI, particularly through reasoning under uncertainty, inference, and probabilistic modeling.
 
