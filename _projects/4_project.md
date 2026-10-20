@@ -2,7 +2,7 @@
 layout: page
 title: Stanford Probability for AI
 description: Probability for AI Program · October–November 2026
-img: assets/img/IMG_5914.jpeg
+img: assets/img/IMG_6059.jpeg
 importance: 4
 category: work
 ---
