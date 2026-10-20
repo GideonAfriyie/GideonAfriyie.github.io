@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Started a new role as a **Research Assistant** @ Gettysburg college, working on 3D topographic modeling.
+Started a new role as a **Research Assistant**, working on 3D topographic modeling.
 
