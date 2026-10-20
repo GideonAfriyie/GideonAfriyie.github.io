@@ -9,9 +9,14 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
+    <div style="text-align: center; font-size: 1.5rem;">
+      <a href="https://www.linkedin.com/in/gideon-afriyie/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://github.com/GideonAfriyie" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+      <a href="https://scholar.google.com/citations?user=p4DsaEIAAAAJ" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
