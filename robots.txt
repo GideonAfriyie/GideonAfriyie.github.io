@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gideonafriyie.github.io/academic-portfolio/sitemap.xml
+Sitemap: https://gideonafriyie.github.io/sitemap.xml
