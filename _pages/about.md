@@ -7,6 +7,7 @@ subtitle: Mathematics Undergraduate | Gettysburg College
 profile:
   align: right
   image: profile.png
+  image_width: 75%
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="text-align: center; font-size: 1.5rem;">
