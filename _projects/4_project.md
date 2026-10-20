@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stanford π
-description: Probability for AI Program · October–November 2026
+description: Probability for AI Program · Oct. – Nov. 2026
 img: assets/img/IMG_6059.jpeg
 importance: 4
 category: work
