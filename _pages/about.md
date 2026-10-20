@@ -9,10 +9,12 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
+      more_info: >
     <div style="text-align: center; font-size: 1.5rem;">
-      <a href="https://www.linkedin.com/in/gideon-afriyie/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-      <a href="https://github.com/GideonAfriyie" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
-      <a href="https://scholar.google.com/citations?user=p4DsaEIAAAAJ" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://scholar.google.com/citations?user=p4DsaEIAAAAJ" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://www.linkedin.com/in/gideon-afriyie/" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://orcid.org/0009-0001-0695-621X" aria-label="ORCID"><i class="fa-brands fa-orcid"></i></a>
+      <a href="mailto:gideonafriyie23@gmail.com" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
     </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
