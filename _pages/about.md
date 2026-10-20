@@ -9,7 +9,6 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
-      more_info: >
     <div style="text-align: center; font-size: 1.5rem;">
       <a href="https://scholar.google.com/citations?user=p4DsaEIAAAAJ" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
       <a href="https://www.linkedin.com/in/gideon-afriyie/" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
