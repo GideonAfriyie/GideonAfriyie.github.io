@@ -108,4 +108,4 @@ Months later, that curiosity became my first peer-reviewed journal publication.
 
 The resulting research was published in *Statistics & Probability Letters*.
 
-See my [Publications]({{ '/publications/' | relative_url }}) page for the paper and its bibliographic details.
+See my [Publications]({{ '/publications/' | relative_url }}) page for the paper.
