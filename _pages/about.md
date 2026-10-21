@@ -37,3 +37,4 @@ I like asking questions and staying with a problem until I understand it. That c
 
 Outside of academics, I enjoy going to the gym, listening to music, playing video games on my PS5 (especially EA Sports FC and adventure games), and watching movies. I also enjoy playing pool.
 
+You can view my resume [here](/assets/pdf/Afriyie_Resume.pdf).
