@@ -5,17 +5,9 @@ permalink: /
 subtitle: Mathematics Undergraduate | Gettysburg College
 
 profile:
-  align: right
-  image: profile.png
-  image_width: 75%
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <div style="text-align: center; font-size: 1.5rem;">
-      <a href="https://scholar.google.com/citations?user=p4DsaEIAAAAJ" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-      <a href="https://www.linkedin.com/in/gideon-afriyie/" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-      <a href="https://orcid.org/0009-0001-0695-621X" aria-label="ORCID"><i class="fa-brands fa-orcid"></i></a>
-      <a href="mailto:gideonafriyie23@gmail.com" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
-    </div>
+  align:
+  image:
+  image_circular: false
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -38,3 +30,18 @@ I like asking questions and staying with a problem until I understand it. That c
 Outside of academics, I enjoy going to the gym, listening to music, playing video games on my PS5 (especially EA Sports FC and adventure games), and watching movies. I also enjoy playing pool.
 
 You can view my resume [here](/assets/pdf/Afriyie_Resume.pdf).
+
+<div style="display: flex; gap: 22px; align-items: center; font-size: 1.5rem; margin-top: 12px; margin-bottom: 20px;">
+  <a href="https://scholar.google.com/citations?user=p4DsaEIAAAAJ" aria-label="Google Scholar">
+    <i class="ai ai-google-scholar"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/gideon-afriyie/" aria-label="LinkedIn">
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+  <a href="https://orcid.org/0009-0001-0695-621X" aria-label="ORCID">
+    <i class="fa-brands fa-orcid"></i>
+  </a>
+  <a href="mailto:gideonafriyie23@gmail.com" aria-label="Email">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+</div>
