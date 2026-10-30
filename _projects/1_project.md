@@ -10,7 +10,7 @@ related_publications: false
 
 **Gettysburg College · Research Assistant**
 
-I am developing physical 3D topographic models of Pennsylvania’s South Mountain region as part of the Advancing Science project at Gettysburg College.
+I am developing physical 3D topographic models of South Mountain region as part of the Advancing Science project @ Gettysburg College.
 
 The work combines GIS data preparation, digital terrain modeling, and 3D printing. The goal is to create durable, touchable models that help students explore the region’s terrain and geographic features.
 
@@ -60,27 +60,13 @@ The prepared vector layers were saved as GeoPackages for use in the model-buildi
 
 ## Building the Combined STL
 
-Using an AI-assisted Python workflow, I combined the prepared geographic layers with the elevation raster. The script transformed the layers into a common coordinate system, clipped features to the selected South Mountain boundary, and converted elevation values into a solid terrain surface.
+Using Python workflow, I combined the prepared geographic layers with the elevation raster. The script transformed the layers into a common coordinate system, clipped features to the selected South Mountain boundary, and converted elevation values into a solid terrain surface.
 
 It then added the raised and recessed features. This excerpt from the build script assigns different road widths and heights before adding them to the terrain:
 
-```python
-# Road category, width in mm, raised height in mm
-for kind, ww, hh in [
-    ('PA', 1, .6),
-    ('US', 1.5, .8),
-    ('Interstate', 2, 1)
-]:
-    g = unary_union(roads[kind]).buffer(ww / 2).intersection(land)
-    roadheight = np.maximum(
-        roadheight,
-        gaussian_filter(mask(g), .4) * hh
-    )
-```
-
 These feature dimensions are enlarged for tactile representation rather than drawn at their real-world widths.
 
-The completed mesh was checked for a closed surface, exported as an STL, and prepared in Creality Print. The second prototype was printed at the college’s Innovation and Creativity Lab and reviewed with the supervising professor.
+The completed mesh was checked for a closed surface, exported as an STL, and prepared in Creality Print. The 2nd prototype was printed at the college’s Innovation and Creativity Lab and reviewed with the supervising professor.
 
 <div class="row">
   <div class="col-sm-8 mx-auto mt-3">
