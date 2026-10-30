@@ -2,7 +2,7 @@
 layout: page
 title: 3D Topographic Modeling
 description: Research Assistant
-img: assets/img/IMG_6369.jpg
+img: assets/img/terrain-printed.jpeg
 importance: 1
 category: work
 related_publications: false
@@ -10,7 +10,7 @@ related_publications: false
 
 **Gettysburg College · Research Assistant**
 
-I am developing physical 3D topographic models of South Mountain region as part of the Advancing Science project @ Gettysburg College.
+I am developing physical 3D topographic models of South Mountain region as part of the <a href="https://www.gettysburg.edu/news/gettysburg-college-receives-107000-grant-supporting-advancing-science-program"><u>Advancing Science project</u></a> on-campus.
 
 The work combines GIS data preparation, digital terrain modeling, and 3D printing. The goal is to create durable, touchable models that help students explore the region’s terrain and geographic features.
 
