@@ -20,7 +20,7 @@ Building on an initial terrain-only print, the second prototype combines elevati
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/IMG_6369.jpg" title="Second 3D-printed prototype" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/IMG_6369 2.jpeg" title="Second 3D-printed prototype" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/feature_layout.png" title="Geographic feature layout" class="img-fluid rounded z-depth-1" %}
@@ -60,7 +60,7 @@ The prepared vector layers were saved as GeoPackages for use in the model-buildi
 
 ## Building the Combined STL
 
-Using Python workflow, I combined the prepared geographic layers with the elevation raster. The script transformed the layers into a common coordinate system, clipped features to the selected South Mountain boundary, and converted elevation values into a solid terrain surface.
+Using AI-assisted Python workflow, I combined the prepared geographic layers with the elevation raster. The script transformed the layers into a common coordinate system, clipped features to the selected South Mountain boundary, and converted elevation values into a solid terrain surface.
 
 It then added the raised and recessed features. This excerpt from the build script assigns different road widths and heights before adding them to the terrain:
 
@@ -70,7 +70,7 @@ The completed mesh was checked for a closed surface, exported as an STL, and pre
 
 <div class="row">
   <div class="col-sm-8 mx-auto mt-3">
-    {% include figure.liquid loading="lazy" path="assets/img/IMG_6299.jpg" title="Combined STL preview" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="lazy" path="assets/img/IMG_6299.jpeg" title="Combined STL preview" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
