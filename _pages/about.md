@@ -46,5 +46,5 @@ Outside of academics, I enjoy going to the gym, listening to music, playing vide
 
 ### Conferences - Fully Funded (Upcoming)
 
-1. [Math Alliance Field of Dreams Conference](https://www.ams.org/learning-careers/students/math-alliance/ma-field-of-dreams) — F-GAP Scholar, November 19–23, 2026
+1. [Math Alliance Field of Dreams Conference](https://www.ams.org/learning-careers/students/math-alliance/ma-field-of-dreams) — November 19–23, 2026
 2. [2027 Joint Mathematics Meetings (JMM)](https://jointmathematicsmeetings.org/jmm) — January 12–15, 2027 · Chicago, IL
