@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mathematics Undergraduate | Gettysburg College
+subtitle: Mathematics Undergraduate | Gettysburg College | [Resume](/assets/pdfs/Afriyie_Resume.pdf)
 
 profile:
   align:
