@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mathematics Undergraduate | Gettysburg College | [Resume](/assets/pdfs/Afriyie_Resume.pdf)
+subtitle: 'Mathematics Undergraduate | Gettysburg College | <a href="/assets/pdfs/Afriyie_Resume.pdf" target="_blank">Resume</a>'
 
 profile:
   align:
