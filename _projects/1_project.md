@@ -14,6 +14,19 @@ I am developing physical 3D topographic models of South Mountain region as part 
 
 The work combines GIS data preparation, digital terrain modeling, and 3D printing. The goal is to create durable, touchable models that help students explore the region’s terrain and geographic features.
 
+## Approved Design and Production
+
+I revised the terrain to show the surrounding ridges and valley more clearly, reduced the mountain heights, and removed the roads. The model keeps the waterways, Appalachian Trail, and boundary features, with a flat border for holding. This version will be used to produce the classroom models, which will be painted afterward
+
+<div class="row">
+  <div class="col-sm-10 mx-auto mt-3">
+    {% include figure.liquid loading="eager" path="assets/img/IMG_7425.jpeg" title="Approved South Mountain terrain model" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+  Third prototype: the approved design, with surrounding ridges restored, reduced vertical exaggeration, recessed waterways, and a flat holding border.
+</div>
+
 ## Second Prototype
 
 Building on an initial terrain-only print, the second prototype combines elevation data with roads, streams, lakes, the Appalachian Trail, and the Michaux State Forest boundary.
@@ -37,7 +50,7 @@ Features use different surface treatments:
 - **Appalachian Trail:** Raised and dashed.
 - **Michaux State Forest boundary:** Represented by a low ridge.
 
-The printed model measures approximately **210 × 166 × 24 mm**, with a solid base and exaggerated terrain relief. Initial handling showed that the raised roads could be followed by touch, while the streams were less distinct. Further testing will guide refinements before producing additional models.
+The printed model measures approximately **210 × 166 × 24 mm**, with a solid base and exaggerated terrain relief. Initial handling showed that the raised roads could be followed by touch, while the streams were less distinct. This prototype helped identify changes for the final design.
 
 ## GIS Data Preparation
 
@@ -61,8 +74,6 @@ The prepared vector layers were saved as GeoPackages for use in the model-buildi
 ## Building the Combined STL
 
 Using AI-assisted Python workflow, I combined the prepared geographic layers with the elevation raster. The script transformed the layers into a common coordinate system, clipped features to the selected South Mountain boundary, and converted elevation values into a solid terrain surface.
-
-It then added the raised and recessed features. This excerpt from the build script assigns different road widths and heights before adding them to the terrain:
 
 These feature dimensions are enlarged for tactile representation rather than drawn at their real-world widths.
 
